@@ -1,5 +1,7 @@
 # React Telly 📺
 
+Created by [MollyJeanB](https://github.com/MollyJeanB/react-telly)
+
 React Telly is a friendly little gif television to help you learn how to use, modify, and build components with React + TypeScript.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). To learn React, check out the [React documentation](https://reactjs.org/).
